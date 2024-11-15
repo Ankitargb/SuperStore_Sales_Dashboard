@@ -10,6 +10,7 @@ This project is to analyze the sales performance of a Super Store across various
 Requirements:
 
 	Power BI Desktop
+
 	Tourist Trend Dataset (included in the repository)
 
 
