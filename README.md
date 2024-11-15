@@ -1,4 +1,7 @@
 # SuperStore_Sales_Dashboard
+Files:
+SuperStore_Sales_Dataset
+
 Overview:
 This project is to analyze the sales performance of a Super Store across various dimensions, including customer segments, payment methods, product categories, shipping modes, and regions. The dashboard provides key insights to help the store management understand sales patterns, profit margins, and customer behaviour.
 
@@ -9,8 +12,6 @@ This project is to analyze the sales performance of a Super Store across various
 
 
 
-Files:
-SuperStore_Sales_Dataset
 
 
 
@@ -19,12 +20,14 @@ SuperStore_Sales_Dataset
 
 Requirements:
 
-	Power BI Desktop
-	Tourist Trend Dataset (included in the repository)
+1>Power BI Desktop
+
+2>	Tourist Trend Dataset (included in the repository)
 
 
 
 Questions:
+
 1>What segment contributed the most to total sales?
 
 2>Which payment mode was the most popular among customers?
@@ -58,6 +61,8 @@ Questions:
 Snapshots:
 
  
+
+
 
 
 
@@ -102,9 +107,9 @@ Furniture and Technology categories follow with 0.11M and 0.09M in sales, respec
 
 Sales by Sub-Category:
 Among the sub-categories, Chairs lead with 46K in sales.
-Binders and Phones contribute equally, with 43K each
+Binders and Phones contribute equally, with 43K each.
 
-.
+
 Regional Sales and Profit:
 The map visualization focuses on Texas and Illinois, with Texas showing the highest sales and profit figures in the Central region.
 
@@ -116,8 +121,11 @@ The map visualization focuses on Texas and Illinois, with Texas showing the high
 How to open:
 
 1.	Download Power BI Desktop if not already installed.
+   
 2.	Clone this repository to your local machine or download it as a ZIP file.
+   
 3.	Open Power BI Desktop and load the .XLX Worksheet (Power BI dashboard file) from the downloaded project folder.
+   
 4.	Once the file is loaded, you can interact with the visualizations, filter data, and explore the insights.
 
 
