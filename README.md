@@ -119,6 +119,8 @@ Data Preparation:
                   Add any necessary filters or slicers for the visualizations, allowing users to filter data by country, category, quantity, etc.
 
 
+
+
 Conclusion:
 
 This dashboard offers a comprehensive view of the Super Store’s sales data, highlighting the performance across different dimensions. It provides valuable insights into customer segments, product categories, and shipping methods, allowing the store to optimize operations, focus on profitable segments, and enhance overall sales strategies.
