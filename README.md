@@ -2,8 +2,8 @@
 Files:
 SuperStore_Sales_Dataset
 
-Overview:
 
+Overview:
 This project is to analyze the sales performance of a Super Store across various dimensions, including customer segments, payment methods, product categories, shipping modes, and regions. The dashboard provides key insights to help the store management understand sales patterns, profit margins, and customer behaviour.
 
 
