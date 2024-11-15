@@ -1,6 +1,6 @@
 # SuperStore_Sales_Dashboard
 
-Files:
+File:
 SuperStore_Sales_Dataset
 <br>
 <br>
